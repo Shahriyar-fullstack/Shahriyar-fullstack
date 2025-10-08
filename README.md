@@ -77,5 +77,4 @@ I'm always open to connecting with other developers and collaborating on interes
 <p align="left">
 <a href="https://www.linkedin.com/in/shahriyar-hussain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
 <a href="https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter-handle" height="30" width="40" /></a>
-<a href="syedhussain2000@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="your-email" height="30" width="40" /></a>
 </p>
