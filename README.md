@@ -6,7 +6,7 @@
   <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/header.gif?raw=true" width="100%" alt="Header GIF">
 </p>
 
-I'm a Full-Stack Developer with a passion for creating seamless user experiences and robust back-end solutions. I love turning ideas into reality using technologies like **React**, **Node.js**, and **Python**. I thrive on solving complex problems and continuously learning to keep up with the ever-evolving world of tech.
+I'm a Full-Stack Developer with a passion for creating seamless user experiences and robust back-end solutions. I love turning ideas into reality using technologies like **Javascript**, **React**, **Node.js**, and **Python**. I thrive on solving complex problems and continuously learning to keep up with the ever-evolving world of tech.
 
 ---
 
