@@ -46,23 +46,6 @@ Here are some of the technologies I'm proficient in:
 
 ---
 
-## 📊 My GitHub Stats
-
-Here's a little snapshot of my activity on GitHub.
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 🌱 I’m currently working on...
 
 * 🚀 **Project Name:** A brief one-line description of the project. Building a full-stack MERN application for social networking.
