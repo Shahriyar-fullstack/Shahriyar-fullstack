@@ -48,7 +48,7 @@ Here are some of the technologies I'm proficient in:
 
 ## 🌱 I’m currently working on...
 
-* 🚀 **Project Name:** A brief one-line description of the project. Building a full-stack MERN application for social networking.
+* 🚀 **Project Name:** NA
 * 💡 **Learning:** Exploring Next.js to enhance my React skills with server-side rendering.
 
 ---
